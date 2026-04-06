@@ -1,0 +1,21 @@
+{
+  "author": {
+    "github": "WeekendDevsOrg",
+    "name": "Monday Morning"
+  },
+  "category": "integration",
+  "description": "A minimal example community plugin that greets the user",
+  "icon": "👋",
+  "id": "hello-world",
+  "keywords": [
+    "hello",
+    "example",
+    "starter",
+    "test"
+  ],
+  "license": "MIT",
+  "minAppVersion": "1.0.0",
+  "name": "Hello World",
+  "uiCategory": "development",
+  "version": "1.0.0"
+}
